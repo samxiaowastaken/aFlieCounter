@@ -3,12 +3,10 @@ a tool written in python.(It's socks)
 JUST FOR TESTING,IT IS NOT VERY CONVENENT FOR DAILY USE
 
 WHAT IT IS FOR?
-
 This program will help teachers count the .txt files easiler
 it's not useful because it will use SO MUCH MEMORIES and used SO MUCH WHILES,also,it will couse errors when using the exe.
 =================================================
 HOW TO USE IT?
-
 You need to prepare some txt files for entering
 You can rename all the txt at will(also delite)
 Put them into ./files
