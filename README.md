@@ -1,11 +1,11 @@
 # aFlieCounter
-a tool written in python.(It's socks)
-JUST FOR TESTING,IT IS NOT VERY CONVENENT FOR DAILY USE
+a tool written in python.
+I wrote it just for fun LOL
 
 WHAT IT IS FOR?
 =================================================
 This program will help teachers count the .txt files easiler
-it's not useful because it will use SO MUCH MEMORIES and used SO MUCH WHILES,also,it will couse errors when using the exe.
+it's not useful because it will use too much RAM,also,it crash regularly.
 
 HOW TO USE IT?
 =================================================
@@ -16,5 +16,5 @@ double clic the exe,and it will run aotomaticly
 
 BUGS AND WARNINGS:
 =================================================
-1."查重"can only be used with python,and will cause magic errors in different computers
+1."查重"can only be used with python,and will cause errors in different computers and idk why
 2.You have to prepare the files before the program is started,or it will crash=(
